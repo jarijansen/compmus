@@ -1,2 +1,7 @@
-# compmus
-Computational Musicology
+This project aims to discover correlations and insights into a corpus consisting of my Spotify playlists. This corpus is interesting because it consists of highly structured playlists that represent different genres of music that I put together, in particular music for DJ'ing. I therefore choose this corpus because I want to gain more insights into the playlists to see if there are hidden patterns that might improve the structure, like a better way of organising the songs, or other interesting statistical findings.
+
+The natural groups of comparison points are genres that range from chill lounge music to hard techno. I expect a number of variables to differ between the different genres, like: tempo, energy, loudness, speechiness, valence, etc.
+
+The aim of my playlists is so that I have an organised library for when I'm DJ'ing, and also to explore new music that is similar to the playlist genre using Spotify's features. I only use Spotify for this, so the playlist is very representative of my music knowledge in general. I do expect some genre mismatch in one of the main playlists about House music, because I think that some songs might be better placed in a different subgenre. 
+
+A typical song that represents the House genre would be Charles J - Charles J. It has the typical 120 BPM tempo and incorporates the drum rhythm of house music as well as happy vocals mixed trough that are sampled from Voulez Vous - ABBA. 
